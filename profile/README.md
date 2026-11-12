@@ -1,10 +1,6 @@
 <div align="center">
-  
-# kitoune
 
-<p>
-  Developer · Systems enthusiast · Builder
-</p>
+<a style="font-weight: bold;font-size:24px;">Kitoune</a>
 
 <p>
   Building web platforms, infrastructure, automation and developer tools.
@@ -29,8 +25,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,rust,docker,linux,nginx,git&perline=8" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d" width="100%" />
 
 <div align="center">
   <sub>Building things, breaking things, making them better.</sub>

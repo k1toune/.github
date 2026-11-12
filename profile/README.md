@@ -1,6 +1,10 @@
 <div align="center">
 
-<a style="font-weight: bold;font-size:24px;">Kitoune</a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=42&weight=700&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=55&lines=Kitoune" alt="Kitoune" />
+
+</div>
 
 <p>
   Building web platforms, infrastructure, automation and developer tools.

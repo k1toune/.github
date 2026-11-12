@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d" width="100%" />
-
-<h1>kitoune</h1>
+  
+# kitoune
 
 <p>
   Developer · Systems enthusiast · Builder

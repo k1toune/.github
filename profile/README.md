@@ -28,7 +28,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d" width="100%" />
 
 <div align="center">
 
@@ -37,6 +37,7 @@
 </div>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d" width="100%" />
 
 <div align="center">
   <sub>Building things, breaking things, making them better.</sub>

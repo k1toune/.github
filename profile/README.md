@@ -12,8 +12,6 @@
   Building web platforms, infrastructure, automation and developer tools.
 </p>
 
-<br />
-
 <a href="https://github.com/kitoune">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
 </a>
@@ -23,8 +21,6 @@
 <a href="https://discord.com/users/1192747040879415387">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
 </a>
-
-<br /><br />
 
 </div>
 
@@ -36,7 +32,6 @@
 
 </div>
 
----
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d" width="100%" />
 
 <div align="center">
